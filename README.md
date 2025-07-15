@@ -6,7 +6,10 @@ ilk verilerle uğraşma notebook'um
 2-)https://www.kaggle.com/code/recepakar/myexam
 
 Ödevim
-3-) https://www.kaggle.com/code/recepakar/myexam1
+3-) https://www.kaggle.com/code/recepakar/myexam1 
 
 Ödevim
-4-) https://www.kaggle.com/code/recepakar/myexam2
+4-) https://www.kaggle.com/code/recepakar/myexam2  
+
+Ödevim 
+5-) https://www.kaggle.com/code/recepakar/myexam3 
