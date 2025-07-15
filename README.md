@@ -7,3 +7,6 @@ ilk verilerle uğraşma notebook'um
 
 Ödevim
 3-) https://www.kaggle.com/code/recepakar/myexam1
+
+Ödevim
+4-) https://www.kaggle.com/code/recepakar/myexam2
