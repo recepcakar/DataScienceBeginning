@@ -13,3 +13,6 @@ ilk verilerle uğraşma notebook'um
 
 Ödevim 
 5-) https://www.kaggle.com/code/recepakar/myexam3 
+
+Ödevim
+6-) https://www.kaggle.com/code/recepakar/myexam4
