@@ -16,3 +16,6 @@ ilk verilerle uğraşma notebook'um
 
 Ödevim
 6-) https://www.kaggle.com/code/recepakar/myexam4
+
+Data Science Final Exam
+7-)https://www.kaggle.com/code/recepakar/examtitanic
