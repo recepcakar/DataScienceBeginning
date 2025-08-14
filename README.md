@@ -1,4 +1,4 @@
-# DataScienceBeginning
+# EDA KAGGLE NOTLARIM
 ilk verilerle uğraşma notebook'um
 1-) https://www.kaggle.com/code/recepakar/myfirstkernel 
 
